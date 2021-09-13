@@ -1,0 +1,26 @@
+[
+    {
+        "id": "n1",
+        "image": "assets/images/dessert1.jpg",
+        "title": "Waffle",
+        "subTitle": "Strawberry, kiwi",
+        "time": "20 - 30 min",
+        "price": 30
+    },
+    {
+        "id": "n2",
+        "image": "assets/images/dessert2.jpg",
+        "title": "Cookie Plate",
+        "subTitle": "Rock Candy",
+        "time": "5 - 10 min",
+        "price": 15
+    },
+    {
+        "id": "n3",
+        "image": "assets/images/soup.jpg",
+        "title": "Rice Soup",
+        "subTitle": "Tomato, rice",
+        "time": "15 - 20 min",
+        "price": 8
+    }
+]

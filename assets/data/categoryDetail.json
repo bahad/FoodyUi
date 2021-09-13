@@ -1,0 +1,98 @@
+[
+    {
+        "id": "c1",
+        "image": "assets/images/soup2.jpg",
+        "title": "Lentil Soup",
+        "subTitle": "Lentil,Tomato",
+        "price": 10,
+        "time": "10 - 20 min"
+    },
+    {
+        "id": "c2",
+        "image": "assets/images/beefSalad.jpg",
+        "title": "Beef Steak",
+        "subTitle": "Gegetables, sauce",
+        "price": 15,
+        "time": "10 - 20 min"
+    },
+    {
+        "id": "c3",
+        "image": "assets/images/chicken.jpg",
+        "title": "Crispy Fried Chicken",
+        "subTitle": "Salad and Carrot",
+        "price": 15,
+        "time": "15 - 20 min"
+    },
+    {
+        "id": "c4",
+        "image": "assets/images/dessert2.jpg",
+        "title": "Cookie Plate",
+        "subTitle": "Rock Candy",
+        "price": 15,
+        "time": "5 - 10 min"
+    },
+    {
+        "id": "c5",
+        "image": "assets/images/soup.jpg",
+        "title": "Rice Soup",
+        "subTitle": "Tomato, rice",
+        "price": 8,
+        "time": "10 - 20 min"
+    },
+    {
+        "id": "c6",
+        "image": "assets/images/dessert1.jpg",
+        "title": "Waffle",
+        "subTitle": "Strawberry, kiwi",
+        "price": 30,
+        "time": "5 - 10 min"
+    },
+    {
+        "id": "c7",
+        "image": "assets/images/sushi.jpg",
+        "title": "Sushi",
+        "subTitle": "Mixed sushi set",
+        "price": 8,
+        "time": "5 - 10 min"
+    },
+    {
+        "id": "c8",
+        "image": "assets/images/dessert.jpg",
+        "title": "Strawberry Pie",
+        "subTitle": "Strawberry",
+        "price": 24,
+        "time": "5 - 10 min"
+    },
+    {
+        "id": "c9",
+        "image": "assets/images/salad.jpg",
+        "title": "Vegetarian Salad",
+        "subTitle": "Olive, Vinegar",
+        "price": 5,
+        "time": "5 - 10 min"
+    },
+    {
+        "id": "c10",
+        "image": "assets/images/breakfast.jpg",
+        "title": "Breakfast Plate",
+        "subTitle": "Croissants, coffee",
+        "price": 15,
+        "time": "10 - 20 min"
+    },
+    {
+        "id": "c11",
+        "image": "assets/images/hamburger.jpg",
+        "title": "Hamburger",
+        "subTitle": "French Fries",
+        "price": 20,
+        "time": "15 - 25 min"
+    },
+    {
+        "id": "c12",
+        "image": "assets/images/mixed.jpg",
+        "title": "Meat menu",
+        "subTitle": " Fried eggs, sausage, tomato, beans, toast and bacon",
+        "price": 20,
+        "time": "20 - 30 min"
+    }
+]

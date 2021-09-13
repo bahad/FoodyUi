@@ -1,0 +1,26 @@
+[
+    {
+        "id": "t1",
+        "image": "assets/images/pizza.jpg",
+        "title": "Mixed Pizza",
+        "subTitle": "Olives, sausage",
+        "time": "30 - 40 min",
+        "price": 30
+    },
+    {
+        "id": "t2",
+        "image": "assets/images/healtysalad.jpg",
+        "title": "Healty Salad",
+        "subTitle": "Beans, eggs",
+        "time": "5 - 10 min",
+        "price": 10
+    },
+    {
+        "id": "t3",
+        "image": "assets/images/spaghetti.jpg",
+        "title": "Spaghetti",
+        "subTitle": "Tomato sauce",
+        "time": "10 - 15 min",
+        "price": 15
+    }
+]

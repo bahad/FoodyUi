@@ -1,0 +1,22 @@
+[
+    {
+        "id": "d1",
+        "image": "assets/images/salad.jpg",
+        "title": "Vegetarian Salad",
+        "oldPrice": 10,
+        "price": 5,
+        "progressValue": 30,
+        "dealLeft": "24 Left",
+        "time": "5 - 10 min"
+    },
+    {
+        "id": "d2",
+        "image": "assets/images/dessert.jpg",
+        "title": "Strawberry Pie",
+        "oldPrice": 30,
+        "price": 24,
+        "progressValue": 30,
+        "dealLeft": "30 Left",
+        "time": "5 - 10 min"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "id": "rw1",
+        "author": "Ariana Grande",
+        "avatar": "",
+        "title": "Yummy",
+        "description": "It's not as good as other foods but it's definitely worth ordering.",
+        "star": "5.0",
+        "time": "12 March 2021"
+    },
+    {
+        "id": "rw2",
+        "author": "Selana Gomez",
+        "avatar": "",
+        "title": "Good Timing",
+        "description": "Don't doubt order it now",
+        "star": "4.8",
+        "time": "10 March 2021"
+    },
+    {
+        "id": "rw3",
+        "author": "Sarah",
+        "avatar": "",
+        "title": "Fast Delivery",
+        "description": "A food I will always prefer.",
+        "star": "4.5",
+        "time": "2 March 2021"
+    },
+    {
+        "id": "rw4",
+        "author": "Bridgette",
+        "avatar": "",
+        "title": "Salty",
+        "description": "It was told to cut down on salty and fatty foods.",
+        "star": "3.7",
+        "time": "27 February 2021"
+    },
+    {
+        "id": "rw5",
+        "author": "Groves",
+        "avatar": "",
+        "title": "Salty",
+        "description": "They served food and cleared tables all evening.",
+        "star": "4.8",
+        "time": "25 February 2021"
+    }
+
+]
